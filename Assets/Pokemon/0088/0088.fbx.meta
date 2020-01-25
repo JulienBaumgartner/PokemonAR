@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 2282114e4410f3e4bb291fbc120c5839
+timeCreated: 1521305047
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: FeelerA
+    100004: FeelerB
+    100006: FeelerB_end
+    100008: Head
+    100010: Hips
+    100012: LArm
+    100014: LFingerA
+    100016: LFingerA_end
+    100018: LFingerB
+    100020: LFingerB_end
+    100022: LFingerC
+    100024: LFingerC_end
+    100026: LFoot
+    100028: LForeArm
+    100030: LHand
+    100032: LowerJaw
+    100034: LowerJaw_end
+    100036: LShoulder
+    100038: LThigh
+    100040: LToeA
+    100042: LToeA_end
+    100044: LToeB
+    100046: LToeB_end
+    100048: LToeC
+    100050: LToeC_end
+    100052: model
+    100054: model_skeleton
+    100056: Origin
+    100058: pm0054_00
+    100060: pm0054_00_BodySkin
+    100062: pm0054_00_BodySkin_end
+    100064: pm0054_00_IrisSkin
+    100066: pm0054_00_IrisSkin_end
+    100068: RArm
+    100070: RFingerA
+    100072: RFingerA_end
+    100074: RFingerB
+    100076: RFingerB_end
+    100078: RFingerC
+    100080: RFingerC_end
+    100082: RFoot
+    100084: RForeArm
+    100086: RHand
+    100088: RShoulder
+    100090: RThigh
+    100092: RToeA
+    100094: RToeA_end
+    100096: RToeB
+    100098: RToeB_end
+    100100: RToeC
+    100102: RToeC_end
+    100104: Spine
+    100106: Tail1
+    100108: Tail2
+    100110: Tail2_end
+    100112: UpperJaw
+    100114: UpperJaw_end
+    100116: Waist
+    400000: //RootNode
+    400002: FeelerA
+    400004: FeelerB
+    400006: FeelerB_end
+    400008: Head
+    400010: Hips
+    400012: LArm
+    400014: LFingerA
+    400016: LFingerA_end
+    400018: LFingerB
+    400020: LFingerB_end
+    400022: LFingerC
+    400024: LFingerC_end
+    400026: LFoot
+    400028: LForeArm
+    400030: LHand
+    400032: LowerJaw
+    400034: LowerJaw_end
+    400036: LShoulder
+    400038: LThigh
+    400040: LToeA
+    400042: LToeA_end
+    400044: LToeB
+    400046: LToeB_end
+    400048: LToeC
+    400050: LToeC_end
+    400052: model
+    400054: model_skeleton
+    400056: Origin
+    400058: pm0054_00
+    400060: pm0054_00_BodySkin
+    400062: pm0054_00_BodySkin_end
+    400064: pm0054_00_IrisSkin
+    400066: pm0054_00_IrisSkin_end
+    400068: RArm
+    400070: RFingerA
+    400072: RFingerA_end
+    400074: RFingerB
+    400076: RFingerB_end
+    400078: RFingerC
+    400080: RFingerC_end
+    400082: RFoot
+    400084: RForeArm
+    400086: RHand
+    400088: RShoulder
+    400090: RThigh
+    400092: RToeA
+    400094: RToeA_end
+    400096: RToeB
+    400098: RToeB_end
+    400100: RToeC
+    400102: RToeC_end
+    400104: Spine
+    400106: Tail1
+    400108: Tail2
+    400110: Tail2_end
+    400112: UpperJaw
+    400114: UpperJaw_end
+    400116: Waist
+    2100000: pm0054_00_Body1.tga
+    2100002: pm0054_00_Eye1.tga
+    2100004: pm0054_00_Iris1.tga
+    4300000: model
+    7400000: model_skeleton|00
+    7400002: model_skeleton|01
+    7400004: model_skeleton|02
+    7400006: model_skeleton|03
+    7400008: model_skeleton|04
+    7400010: model_skeleton|05
+    7400012: model_skeleton|06
+    7400014: model_skeleton|07
+    7400016: model_skeleton|08
+    7400018: model_skeleton|09
+    7400020: model_skeleton|10
+    7400022: model_skeleton|11
+    7400024: model_skeleton|12
+    7400026: model_skeleton|13
+    7400028: model_skeleton|14
+    7400030: model_skeleton|15
+    7400032: model_skeleton|16
+    7400034: model_skeleton|17
+    7400036: model_skeleton|18
+    7400038: model_skeleton|19
+    7400040: model_skeleton|20
+    7400042: model_skeleton|21
+    7400044: model_skeleton|22
+    7400046: model_skeleton|23
+    7400048: model_skeleton|24
+    7400050: model_skeleton|25
+    7400052: model_skeleton|26
+    7400054: model_skeleton|27
+    7400056: model_skeleton|28
+    7400058: model_skeleton|29
+    7400060: model_skeleton|30
+    7400062: model_skeleton|31
+    7400064: model_skeleton|32
+    7400066: model_skeleton|33
+    7400068: model_skeleton|34
+    9500000: //RootNode
+    13700000: model
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 0ed73256d815fe14889e1e9ccd3820ab
+timeCreated: 1521304826
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Hair1
+    100004: Hair2
+    100006: Hair2_end
+    100008: LArm
+    100010: LEar
+    100012: LEar_end
+    100014: LFoot
+    100016: LHand
+    100018: LHand_end
+    100020: LThigh
+    100022: LToe
+    100024: LToe_end
+    100026: model
+    100028: model_skeleton
+    100030: Origin
+    100032: pm0039_00
+    100034: pm0039_00_IrisSkin
+    100036: pm0039_00_IrisSkin_end
+    100038: pm0039_00_Skin
+    100040: pm0039_00_Skin_end
+    100042: RArm
+    100044: REar
+    100046: REar_end
+    100048: RFoot
+    100050: RHand
+    100052: RHand_end
+    100054: RThigh
+    100056: RToe
+    100058: RToe_end
+    100060: Waist
+    400000: //RootNode
+    400002: Hair1
+    400004: Hair2
+    400006: Hair2_end
+    400008: LArm
+    400010: LEar
+    400012: LEar_end
+    400014: LFoot
+    400016: LHand
+    400018: LHand_end
+    400020: LThigh
+    400022: LToe
+    400024: LToe_end
+    400026: model
+    400028: model_skeleton
+    400030: Origin
+    400032: pm0039_00
+    400034: pm0039_00_IrisSkin
+    400036: pm0039_00_IrisSkin_end
+    400038: pm0039_00_Skin
+    400040: pm0039_00_Skin_end
+    400042: RArm
+    400044: REar
+    400046: REar_end
+    400048: RFoot
+    400050: RHand
+    400052: RHand_end
+    400054: RThigh
+    400056: RToe
+    400058: RToe_end
+    400060: Waist
+    2100000: pm0039_00_Body1.tga
+    2100002: pm0039_00_Eye1.tga
+    2100004: pm0039_00_Mouth1.tga
+    2100006: pm0039_00_Iris1.tga
+    4300000: model
+    7400000: model_skeleton|00
+    7400002: model_skeleton|01
+    7400004: model_skeleton|02
+    7400006: model_skeleton|03
+    7400008: model_skeleton|04
+    7400010: model_skeleton|05
+    7400012: model_skeleton|06
+    7400014: model_skeleton|07
+    7400016: model_skeleton|08
+    7400018: model_skeleton|09
+    7400020: model_skeleton|10
+    7400022: model_skeleton|11
+    7400024: model_skeleton|12
+    7400026: model_skeleton|13
+    7400028: model_skeleton|14
+    7400030: model_skeleton|15
+    7400032: model_skeleton|16
+    7400034: model_skeleton|17
+    7400036: model_skeleton|18
+    7400038: model_skeleton|19
+    7400040: model_skeleton|20
+    7400042: model_skeleton|21
+    7400044: model_skeleton|22
+    7400046: model_skeleton|23
+    7400048: model_skeleton|24
+    7400050: model_skeleton|25
+    7400052: model_skeleton|26
+    7400054: model_skeleton|27
+    7400056: model_skeleton|28
+    7400058: model_skeleton|29
+    7400060: model_skeleton|30
+    7400062: model_skeleton|31
+    7400064: model_skeleton|32
+    7400066: model_skeleton|33
+    7400068: model_skeleton|34
+    9500000: //RootNode
+    13700000: model
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

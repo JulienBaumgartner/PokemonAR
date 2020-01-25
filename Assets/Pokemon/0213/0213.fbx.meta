@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: b03e0554fc61fda4ca0448790ed099f9
+timeCreated: 1521307674
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Head
+    100004: Hips
+    100006: LArm
+    100008: LEar
+    100010: LEar_end
+    100012: LFoot
+    100014: LForeArm
+    100016: LHand
+    100018: LHand_end
+    100020: LLeg
+    100022: LThigh
+    100024: LToe
+    100026: LToe_end
+    100028: model
+    100030: model_skeleton
+    100032: Neck
+    100034: Origin
+    100036: pm0151_00
+    100038: pm0151_00_BodySkin
+    100040: pm0151_00_BodySkin_end
+    100042: pm0151_00_IrisSkin
+    100044: pm0151_00_IrisSkin_end
+    100046: RArm
+    100048: REar
+    100050: REar_end
+    100052: RFoot
+    100054: RForeArm
+    100056: RHand
+    100058: RHand_end
+    100060: RLeg
+    100062: RThigh
+    100064: RToe
+    100066: RToe_end
+    100068: Spine1
+    100070: Spine2
+    100072: Tail1
+    100074: Tail2
+    100076: Tail3
+    100078: Tail4
+    100080: Tail5
+    100082: Tail6
+    100084: Tail7
+    100086: Tail7_end
+    100088: Waist
+    400000: //RootNode
+    400002: Head
+    400004: Hips
+    400006: LArm
+    400008: LEar
+    400010: LEar_end
+    400012: LFoot
+    400014: LForeArm
+    400016: LHand
+    400018: LHand_end
+    400020: LLeg
+    400022: LThigh
+    400024: LToe
+    400026: LToe_end
+    400028: model
+    400030: model_skeleton
+    400032: Neck
+    400034: Origin
+    400036: pm0151_00
+    400038: pm0151_00_BodySkin
+    400040: pm0151_00_BodySkin_end
+    400042: pm0151_00_IrisSkin
+    400044: pm0151_00_IrisSkin_end
+    400046: RArm
+    400048: REar
+    400050: REar_end
+    400052: RFoot
+    400054: RForeArm
+    400056: RHand
+    400058: RHand_end
+    400060: RLeg
+    400062: RThigh
+    400064: RToe
+    400066: RToe_end
+    400068: Spine1
+    400070: Spine2
+    400072: Tail1
+    400074: Tail2
+    400076: Tail3
+    400078: Tail4
+    400080: Tail5
+    400082: Tail6
+    400084: Tail7
+    400086: Tail7_end
+    400088: Waist
+    2100000: pm0151_00_Body1.tga
+    2100002: pm0151_00_Eye1.tga
+    2100004: pm0151_00_Mouth1.tga
+    2100006: pm0151_00_Iris1.tga
+    4300000: model
+    7400000: model_skeleton|00
+    7400002: model_skeleton|01
+    7400004: model_skeleton|02
+    7400006: model_skeleton|03
+    7400008: model_skeleton|04
+    7400010: model_skeleton|05
+    7400012: model_skeleton|06
+    7400014: model_skeleton|07
+    7400016: model_skeleton|08
+    7400018: model_skeleton|09
+    7400020: model_skeleton|10
+    7400022: model_skeleton|11
+    7400024: model_skeleton|12
+    7400026: model_skeleton|13
+    7400028: model_skeleton|14
+    7400030: model_skeleton|15
+    7400032: model_skeleton|16
+    7400034: model_skeleton|17
+    7400036: model_skeleton|18
+    7400038: model_skeleton|19
+    7400040: model_skeleton|20
+    7400042: model_skeleton|21
+    7400044: model_skeleton|22
+    7400046: model_skeleton|23
+    7400048: model_skeleton|24
+    7400050: model_skeleton|25
+    7400052: model_skeleton|26
+    7400054: model_skeleton|27
+    7400056: model_skeleton|28
+    7400058: model_skeleton|29
+    7400060: model_skeleton|30
+    7400062: model_skeleton|31
+    7400064: model_skeleton|32
+    7400066: model_skeleton|33
+    7400068: model_skeleton|34
+    9500000: //RootNode
+    13700000: model
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

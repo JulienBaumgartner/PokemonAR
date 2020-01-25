@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 79865aab61403564083329e20a1ab352
+timeCreated: 1521301725
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Head
+    100004: Hips
+    100006: Jaw
+    100008: Jaw_end
+    100010: LArm
+    100012: LFoot
+    100014: LForeArm
+    100016: LHand
+    100018: LHand_end
+    100020: LLeg
+    100022: LShoulder
+    100024: LThigh
+    100026: LToe
+    100028: LToe_end
+    100030: model
+    100032: model_skeleton
+    100034: Neck
+    100036: Origin
+    100038: pm0005_00
+    100040: pm0005_00_BodySkin
+    100042: pm0005_00_BodySkin_end
+    100044: pm0005_00_FireAStenSkin
+    100046: pm0005_00_FireAStenSkin_end
+    100048: pm0005_00_FireCore1Skin
+    100050: pm0005_00_FireCore1Skin_end
+    100052: pm0005_00_FireCore2Skin
+    100054: pm0005_00_FireCore2Skin_end
+    100056: pm0005_00_FireCore3Skin
+    100058: pm0005_00_FireCore3Skin_end
+    100060: pm0005_00_IrisSkin
+    100062: pm0005_00_IrisSkin_end
+    100064: RArm
+    100066: RFoot
+    100068: RForeArm
+    100070: RHand
+    100072: RHand_end
+    100074: RLeg
+    100076: RShoulder
+    100078: RThigh
+    100080: RToe
+    100082: RToe_end
+    100084: Spine1
+    100086: Spine2
+    100088: Tail1
+    100090: Tail2
+    100092: Tail3
+    100094: Tail4
+    100096: Tail5
+    100098: TailA01
+    100100: TailA02
+    100102: TailA03
+    100104: TailA03_end
+    100106: Waist
+    400000: //RootNode
+    400002: Head
+    400004: Hips
+    400006: Jaw
+    400008: Jaw_end
+    400010: LArm
+    400012: LFoot
+    400014: LForeArm
+    400016: LHand
+    400018: LHand_end
+    400020: LLeg
+    400022: LShoulder
+    400024: LThigh
+    400026: LToe
+    400028: LToe_end
+    400030: model
+    400032: model_skeleton
+    400034: Neck
+    400036: Origin
+    400038: pm0005_00
+    400040: pm0005_00_BodySkin
+    400042: pm0005_00_BodySkin_end
+    400044: pm0005_00_FireAStenSkin
+    400046: pm0005_00_FireAStenSkin_end
+    400048: pm0005_00_FireCore1Skin
+    400050: pm0005_00_FireCore1Skin_end
+    400052: pm0005_00_FireCore2Skin
+    400054: pm0005_00_FireCore2Skin_end
+    400056: pm0005_00_FireCore3Skin
+    400058: pm0005_00_FireCore3Skin_end
+    400060: pm0005_00_IrisSkin
+    400062: pm0005_00_IrisSkin_end
+    400064: RArm
+    400066: RFoot
+    400068: RForeArm
+    400070: RHand
+    400072: RHand_end
+    400074: RLeg
+    400076: RShoulder
+    400078: RThigh
+    400080: RToe
+    400082: RToe_end
+    400084: Spine1
+    400086: Spine2
+    400088: Tail1
+    400090: Tail2
+    400092: Tail3
+    400094: Tail4
+    400096: Tail5
+    400098: TailA01
+    400100: TailA02
+    400102: TailA03
+    400104: TailA03_end
+    400106: Waist
+    2100000: pm0005_00_Body1.tga
+    2100002: pm0005_00_Eye1.tga
+    2100004: pm0005_00_Iris1.tga
+    2100006: FireStenA1.tga
+    2100008: FireCoreA1.tga
+    4300000: model
+    7400000: model_skeleton|00
+    7400002: model_skeleton|01
+    7400004: model_skeleton|02
+    7400006: model_skeleton|03
+    7400008: model_skeleton|04
+    7400010: model_skeleton|05
+    7400012: model_skeleton|06
+    7400014: model_skeleton|07
+    7400016: model_skeleton|08
+    7400018: model_skeleton|09
+    7400020: model_skeleton|10
+    7400022: model_skeleton|11
+    7400024: model_skeleton|12
+    7400026: model_skeleton|13
+    7400028: model_skeleton|14
+    7400030: model_skeleton|15
+    7400032: model_skeleton|16
+    7400034: model_skeleton|17
+    7400036: model_skeleton|18
+    7400038: model_skeleton|19
+    7400040: model_skeleton|20
+    7400042: model_skeleton|21
+    7400044: model_skeleton|22
+    7400046: model_skeleton|23
+    7400048: model_skeleton|24
+    7400050: model_skeleton|25
+    7400052: model_skeleton|26
+    7400054: model_skeleton|27
+    7400056: model_skeleton|28
+    7400058: model_skeleton|29
+    7400060: model_skeleton|30
+    7400062: model_skeleton|31
+    7400064: model_skeleton|32
+    7400066: model_skeleton|33
+    7400068: model_skeleton|34
+    9500000: //RootNode
+    13700000: model
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
